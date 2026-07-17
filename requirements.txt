@@ -1,5 +1,0 @@
-openai
-langgraph
-fastapi
-pydantic
-python-dotenv
