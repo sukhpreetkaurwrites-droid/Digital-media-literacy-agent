@@ -1,2 +1,0 @@
-# Indian Media Ecosystem
-Placeholder.
